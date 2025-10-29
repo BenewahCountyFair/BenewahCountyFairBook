@@ -1,0 +1,19 @@
+# Livestock Department
+
+## Divisions
+
+??? note "Division A — Market Steer"
+    [UPDATE WITH CURRENT CLASS RULES]
+
+??? note "Division B — Breeding Stock"
+    [UPDATE WITH CURRENT CLASS RULES]
+
+## Premiums
+
+- [UPDATE WITH PREMIUM AMOUNTS]
+- [INCLUDE PAYOUT DETAILS WHEN APPROVED]
+
+## Special Rules
+
+- [ADD HEALTH CERTIFICATE REQUIREMENTS]
+- [LIST CHECK-IN TIMES AND EQUIPMENT GUIDELINES]
