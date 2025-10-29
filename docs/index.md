@@ -1,4 +1,4 @@
-# Benewah County Fairbook
+# Benewah County Fairbook.
 
 Welcome to the digital home of the Benewah County Fairbook. This site gathers important details about the fair schedule, entry requirements, department guidelines, and community partners so exhibitors and visitors can quickly find what they need.
 
