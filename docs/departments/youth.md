@@ -1,0 +1,19 @@
+# Youth Department
+
+## Divisions
+
+??? note "Division A — Creative Arts"
+    [UPDATE WITH CURRENT CLASS RULES]
+
+??? note "Division B — STEM Projects"
+    [UPDATE WITH CURRENT CLASS RULES]
+
+## Premiums
+
+- [UPDATE WITH PREMIUM AMOUNTS]
+- [INCLUDE SPECIAL YOUTH AWARDS]
+
+## Special Rules
+
+- [CLARIFY AGE GROUPS AND ELIGIBILITY]
+- [INCLUDE SUPERVISION OR RELEASE REQUIREMENTS]
