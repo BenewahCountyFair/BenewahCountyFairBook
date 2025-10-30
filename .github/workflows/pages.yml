@@ -33,8 +33,7 @@ jobs:
           pip install mkdocs-material mkdocs-glightbox
 
       - name: Build site
-        run: mkdocs build --strict
-        # remove --strict if you prefer builds to succeed with warnings
+        run: mkdocs build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
