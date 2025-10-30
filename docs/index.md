@@ -7,31 +7,31 @@ Welcome to the digital home of the Benewah County Fairbook. This site gathers im
 <div class="card-grid">
   <a class="card" href="forms/">
     <h3>Entry Forms</h3>
-    <p>Submit entries online or download printable forms for every department.</p>
+    <p>Submit entries online or print blank forms by department.</p>
   </a>
   <a class="card" href="schedule/">
     <h3>Schedule</h3>
-    <p>Check daily activities, judging times, entertainment, and deadlines.</p>
+    <p>Daily activities, deadlines, judging times, and events.</p>
   </a>
   <a class="card" href="rules/">
-    <h3>Rules</h3>
-    <p>Review eligibility, conduct expectations, and payout information.</p>
+    <h3>Rules &amp; Eligibility</h3>
+    <p>Entry requirements, conduct, premiums, and payouts.</p>
   </a>
   <a class="card" href="departments/">
     <h3>Departments</h3>
-    <p>Find department-specific divisions, class details, and special notes.</p>
+    <p>Divisions, classes, and special notes by department.</p>
   </a>
   <a class="card" href="maps/">
     <h3>Maps</h3>
-    <p>Plan your visit with parking guidance and fairground layouts.</p>
+    <p>Parking guidance and fairground layout.</p>
   </a>
   <a class="card" href="sponsors/">
     <h3>Sponsors</h3>
-    <p>Celebrate the local businesses and supporters who make the fair possible.</p>
+    <p>Businesses and supporters who make the fair possible.</p>
   </a>
   <a class="card" href="contact/">
     <h3>Contact</h3>
-    <p>Reach the fair office for questions about entries, volunteering, or events.</p>
+    <p>Reach the fair office for questions about entries or events.</p>
   </a>
 </div>
 

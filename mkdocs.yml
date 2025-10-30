@@ -31,12 +31,41 @@ nav:
 
 theme:
   name: material
+  icon:
+    repo: material/github
+    admonition:
+      note: material/information-outline
+      tip: material/lightbulb-on-outline
+      warning: material/alert-outline
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.footer
+    - navigation.top
+    - navigation.instant
+    - toc.integrate
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
   language: en
+
+repo_url: https://github.com/BenewahCountyFair/fairbook
+edit_uri: edit/main/docs/
+
 extra_css:
   - overrides/styles.css
 
@@ -46,6 +75,9 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - def_list
+  - attr_list
+  - tables
   - toc:
       permalink: true
   - pymdownx.details

@@ -127,7 +127,7 @@ Plants in planters should be grown for at least 3 months in container displayed.
 ### House Plants
 
 ??? note "Class 1 — African Violet"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 2 — Begonia"
     **Classes**
@@ -135,16 +135,16 @@ Plants in planters should be grown for at least 3 months in container displayed.
     - Fibrous
 
 ??? note "Class 3 — Cactus"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 4 — Flowering Houseplant"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 5 — Foliage Houseplant"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 6 — Unusual Houseplant"
-    _Details coming soon._
+    Single category (no lots)
 
 
 ### Designs, Planters & Terrariums
@@ -171,7 +171,7 @@ Plants in planters should be grown for at least 3 months in container displayed.
     1 enclosed container
 
 ??? note "Class 4 — Succulent Garden"
-    _Details coming soon._
+    Single category (no lots)
 
 
 ### Ground Gardens

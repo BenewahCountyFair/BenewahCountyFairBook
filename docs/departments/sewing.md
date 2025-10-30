@@ -174,13 +174,13 @@ Youth 8 - 17 · Adult 18+
     - Americana
 
 ??? note "Class 10 — Hand Knitting"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 11 — Hand Knitting with hand-spun yarn"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 12 — Machine Knitting"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 13 — Crochet"
     **Classes**
@@ -196,7 +196,7 @@ Youth 8 - 17 · Adult 18+
     - Other
 
 ??? note "Class 14 — Loom Weaving"
-    _Details coming soon._
+    Single category (no lots)
 
 ??? note "Class 15 — Wool"
     **Classes**
