@@ -1,0 +1,13 @@
+# exclude binaries for text-only PR
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+/source/**

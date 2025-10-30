@@ -1,19 +1,15 @@
-# Antiques & Collectibles Department
+# Antiques & Collectibles
 
-## Divisions
+**Premiums**
 
-??? note "Division A — Household Antiques"
-    [UPDATE WITH CURRENT CLASS RULES]
+Blue - $3 · Red - $2 · White - $1 · Purple Ribbon for Grand
 
-??? note "Division B — Memorabilia"
-    [UPDATE WITH CURRENT CLASS RULES]
+??? note "Class 1 — Antiques"
+    **Classes**
+    - Refurbished
+    - Original
 
-## Premiums
-
-- [UPDATE WITH PREMIUM AMOUNTS]
-- [INCLUDE JUDGING RUBRICS]
-
-## Special Rules
-
-- [DETAIL INSURANCE OR SECURITY INFORMATION]
-- [SPECIFY DISPLAY CASE OR TAG REQUIREMENTS]
+??? note "Class 2 — Modern Collectibles"
+    **Classes**
+    - Refurbished
+    - Original

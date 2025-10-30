@@ -8,19 +8,19 @@ nav:
   - Rules & Eligibility: rules.md
   - Departments:
       - Overview: departments/index.md
-      - Livestock: departments/livestock.md
-      - Home Arts: departments/home-arts.md
-      - Youth: departments/youth.md
-      - Horticulture: departments/horticulture.md
+      - Antiques & Collectibles: departments/antiques-and-collectibles.md
+      - Art: departments/art.md
       - Baking: departments/baking.md
       - Canning: departments/canning.md
+      - Field Crops & Seeds: departments/field-crops-and-seeds.md
+      - Flowers & Horticulture: departments/flowers-and-horticulture.md
+      - Fruits & Vegetables: departments/fruits-and-vegetables.md
+      - Hobbies & Crafts: departments/hobbies-and-crafts.md
+      - Home Arts: departments/home-arts.md
+      - Livestock: departments/livestock.md
       - Photography: departments/photography.md
       - Sewing: departments/sewing.md
-      - Hobbies & Crafts: departments/hobbies-and-crafts.md
-      - Antiques & Collectibles: departments/antiques-and-collectibles.md
-      - Fruits & Vegetables: departments/fruits-and-vegetables.md
-      - Field Crops & Seeds: departments/field-crops-and-seeds.md
-      - Other Departments: departments/other-departments.md
+      - Youth: departments/youth.md
   - Maps & Parking: maps.md
   - Sponsors: sponsors.md
   - Contact: contact.md
