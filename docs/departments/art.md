@@ -54,4 +54,4 @@ Blue - $3 · Red - $2 · White - $1 · Purple Ribbon for Grand
     - Other
 
 ??? note "Class 6 — Digital Art"
-    _Details coming soon._
+    Single category (no lots)
