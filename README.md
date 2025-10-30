@@ -3,7 +3,7 @@
 This repository powers the official Benewah County Fairbook website for the BenewahCountyFair organization. The site is built with MkDocs Material and published through GitHub Pages so exhibitors, volunteers, and visitors can access current fair information at any time.
 
 ## Live Site
-The Fairbook is available at: <https://benewahcountyfair.github.io/fairbook/> (update once the site is live).
+The Fairbook is available at: <https://benewahcountyfair.github.io/BenewahCountyFairBook/> (update once the site is live).
 
 ## Project Purpose
 - Share the current fair schedule, rules, entry forms, and department guides online.
